@@ -10,6 +10,6 @@ v3 tek pro dallar
 Stage çaılşmamaları
 >>>>>>> Stashed changes
 v4 githıp kodları
-v5 kodları salih
+v5 başka kodlar
 
 v6 GitHup hesabndan kodlar
