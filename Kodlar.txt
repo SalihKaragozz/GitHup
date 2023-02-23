@@ -1,0 +1,11 @@
+v1 Kodları...
+ystem out println("Git");
+
+v2 çalışmalarım...
+<<<<<<< Updated upstream
+v3 git commit - am "v3"
+
+v3 tek pro dallar
+=======
+Stage çaılşmamaları
+>>>>>>> Stashed changes
